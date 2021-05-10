@@ -35,28 +35,28 @@ Você pode acessar o layout através deste link: [**DSDeliver**](https://www.fig
 
 <figure>
 <div align="center">
-  <img src=".github/img/DSDeliver-Layouts.png"  alt="Layouts">
+  <img src="https://github.com/HeitorPreviero/dsdeliver-sds2/blob/main/img/DSDeliver-Layouts.png"  alt="Layouts">
   <figcaption>Layout das telas da aplicação</figcaption>
 </div>
 </figure>
 
 <figure>
 <div align="center">
-  <img src=".github/img/DSDeliver-Home.png"  alt="Página inicial">
+  <img src="https://github.com/HeitorPreviero/dsdeliver-sds2/blob/main/img/DSDeliver-Home.png"  alt="Página inicial">
   <figcaption>Página inicial</figcaption>
 </div>
 </figure>
 
 <figure>
 <div align="center">
-  <img src=".github/img/DSDeliver-Orders.png"  alt="Página de pedidos">
+  <img src="https://github.com/HeitorPreviero/dsdeliver-sds2/blob/main/img/DSDeliver-Orders.png"  alt="Página de pedidos">
   <figcaption>Página de pedidos</figcaption>
 </div>
 </figure>
 
 <figure>
 <div align="center">
-  <img src=".github/img/DSDeliver-404.png"  alt="Página de erro 404">
+  <img src="https://github.com/HeitorPreviero/dsdeliver-sds2/blob/main/img/DSDeliver-404.png"  alt="Página de erro 404">
   <figcaption>Página de erro 404</figcaption>
 </div>
 </figure>
